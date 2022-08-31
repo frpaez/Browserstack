@@ -1,0 +1,14 @@
+*.png
+target/
+local.log
+.idea
+*.iml
+.gradle
+build/
+.DS_Store
+gradle
+gradlew
+gradlew.bat
+logs
+/.apt_generated/
+/.apt_generated_tests/
